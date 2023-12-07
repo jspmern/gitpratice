@@ -1,2 +1,2 @@
 there is three stage in git hub
-modified
+modified  - in the modified phase if you want undo all change (git restore first.html)
