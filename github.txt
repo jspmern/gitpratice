@@ -1,2 +1,3 @@
 there is three stage in git hub
-modified  - in the modified phase if you want undo all change (git restore first.html)
+modified  = in the modified phase, if you want undo all change (git restore first.html)
+staged = in the staged phase, if you want to undo all change  (git restore --staged first.html) after the undo it goes to again modified stage
