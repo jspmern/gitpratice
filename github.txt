@@ -1,5 +1,9 @@
-there is three stage in git hub
-modified  = in the modified phase, if you want undo all change (git restore first.html)
-staged = in the staged phase, if you want to undo all change  (git restore --staged first.html) after the undo it goes to again modified stage  soft -This is useful when you want to "undo" the commits but keep the changes staged for a new commit (git reset --soft HEAD~1)
+                       ----There is three stage in git Hub---
+...........................................................................................................................................
+1.modified  = in the modified phase, if you want undo all change (git restore first.html)
 
-        hard-This is useful when you want to completely discard the changes in the working directory and start fresh with the state of the specified commit  (git reset --hard HEAD~1)
+2.staged = in the staged phase, if you want to undo all change  (git restore --staged first.html) after the undo it goes to again 
+
+3.modified  =  in the modified phase, if you want to undo all change  so we have two option
+             soft -This is useful when you want to "undo" the commits but keep the changes staged for a new commit (git reset --soft HEAD~1)
+            hard-This is useful when you want to completely discard the changes in the working directory and start fresh with the state of the specified commit  (git reset --hard HEAD~1)
