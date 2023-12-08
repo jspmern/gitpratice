@@ -20,6 +20,9 @@
 .create and switch together -
         git checkout -b new_branch_name
 .Delete branch -
-        git branch -D branch_name (but if you want to Delete your branch in same branch , it is not possible you have to go onothe branch than possible)        
+        git branch -D branch_name (but if you want to Delete your branch in same branch , it is not possible you have to go onothe branch than possible) 
+.Change brach Name- if you want to chage the brach name it is possible (git branch -m new_branch_name) 
+.Push your code in own brach - git push -u origin your_branch_name 
+
 Note point- change is availble for specified branch if you want to see same changes in otherbranch then you have to do merge   
             here one senrio , if you do change is in branch from that branch without save if you want to jump another brach then you are getting one error is {commit your change or stash them before you switch branches}       
