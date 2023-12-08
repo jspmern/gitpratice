@@ -4,6 +4,6 @@
 
 2.staged = in the staged phase, if you want to undo all change  (git restore --staged first.html) after the undo it goes to again 
 
-3.modified  =  in the modified phase, if you want to undo all change  so we have two option
+3.modified  =  in the modified phase (after the commit ), if you want to undo all change  so we have two option
              soft -This is useful when you want to "undo" the commits but keep the changes staged for a new commit (git reset --soft HEAD~1)
             hard-This is useful when you want to completely discard the changes in the working directory and start fresh with the state of the specified commit  (git reset --hard HEAD~1)
