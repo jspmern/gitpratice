@@ -51,13 +51,4 @@ git pull is a Git command used to fetch and merge changes from a remote reposito
 git pull origin main :  This command fetches changes from the main branch of the remote repository named origin and merges them into your current local branch
 Keep in mind that if there are local changes that haven't been committed, Git may attempt to merge remote changes into your local branch, potentially resulting in conflicts. It's a good practice to commit or stash your local changes before pulling to avoid conflicts
 
-pratice 4
-//pratice purpsoe
-//pratice purpose 2
-  
-//partice purpsose 3
-//pratice purpose 4
-and this very huge line of code
-//upcoming
-//upcoming 1
-//updocdfdkfdsjf
+ 
