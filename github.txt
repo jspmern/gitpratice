@@ -24,10 +24,10 @@
 .Change brach Name- if you want to chage the brach name it is possible (git branch -m new_branch_name) 
 .Push your code in own brach - git push -u origin your_branch_name 
 .merge two brach - first you have to comeout to the branch with you merge , after that you have to  hit git merge brach_name(that you want to merge ) and if you want to see the change in github for that you have to push the code form your cmd
-.merge_conflict - when you are in abc file form one branch you are doning commit and in same file form another branch you alredy did commit  , then you are going to merge on that time conflict issue is occur.   if you want to resolve , on that time you have to manually change..
+.merge_conflict - when you are in abc file form one branch you are doning commit and in same file form another branch you alredy did commit  , then you are going to merge on that time conflict issue is occur.   if you want to resolve , on that time you have to manually change and commit and push..
 
 Note point- change is availble for specified branch if you want to see same changes in otherbranch then you have to do merge   
             here one senrio , if you do change is in branch from that branch without save if you want to jump another brach then you are getting one error is {commit your change or stash them before you switch branches}       
 
-            <h1>hello this is new change  from feature</h1>
+ 
             
