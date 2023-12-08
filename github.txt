@@ -35,3 +35,16 @@ Note point- change is availble for specified branch if you want to see same chan
   for saving stash  the command is: git stash  and once you back to again in your branch and you want same data you have to 
   hit - git stash apply
   if you want to clear all stash - git stash clear
+
+  .................................................remote............................................................................
+  git remote -v : This will show you the names and URLs of the remote repositories associated with your local repository. It's a quick way to inspect the configuration and ensure that your repository is connected to the correct remotes
+  this is for setting the remote: 
+  git remote set-url origin https://new-repository-url.git
+  this is for the adding the remote
+  git remote add <remote-name> <remote-url>
+  this is for removing the remote
+  git remote remove <remote-name>
+
+  
+
+
