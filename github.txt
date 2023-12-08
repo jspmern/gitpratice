@@ -32,5 +32,5 @@ Note point- change is availble for specified branch if you want to see same chan
  
  ------------------------------------------------------------stash--------------------------------------------------------------------
   stash - In Git, the "stash" is a convenient feature that allows you to temporarily save changes that are not ready to be committed but need to be set aside. This is useful when you want to switch to a different branch, but you have uncommitted changes in your working directory. The stash allows you to save these changes, switch branches, and then reapply the changes later. 
-  for saving stash 
-            
+  for saving stash  the command is: git stash  and once you back to again in your branch and you want same data you have to 
+  hit - git stash apply
