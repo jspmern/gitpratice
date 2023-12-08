@@ -45,6 +45,12 @@ Note point- change is availble for specified branch if you want to see same chan
   this is for removing the remote
   git remote remove <remote-name>
 
- upcoming 
+
+...................................................git pull....................................................
+git pull is a Git command used to fetch and merge changes from a remote repository into the current branch. It is a combination of two separate Git commands (means in same branch two people is working and you want to take updated code of the branch , that time you have to git push)
+git pull origin main :  This command fetches changes from the main branch of the remote repository named origin and merges them into your current local branch
+Keep in mind that if there are local changes that haven't been committed, Git may attempt to merge remote changes into your local branch, potentially resulting in conflicts. It's a good practice to commit or stash your local changes before pulling to avoid conflicts
+
+  
 
 
