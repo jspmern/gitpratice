@@ -52,9 +52,4 @@ git pull origin main :  This command fetches changes from the main branch of the
 Keep in mind that if there are local changes that haven't been committed, Git may attempt to merge remote changes into your local branch, potentially resulting in conflicts. It's a good practice to commit or stash your local changes before pulling to avoid conflicts
 
 
-//pratice purpsoe
-//pratice purpose 2
-  
-
-//upcoming
-//upcoming 1
+ 
